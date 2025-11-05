@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ayush/OneDrive/Desktop/MLOps%20Lab/mlruns/185263012116731052/models/m-08177b6b73534fcf9c328f9f62217172/artifacts
+creation_timestamp: 1762362231951
+experiment_id: '185263012116731052'
+last_updated_timestamp: 1762362241256
+model_id: m-08177b6b73534fcf9c328f9f62217172
+model_type: null
+name: model
+source_run_id: 16af85b0aa3742998a5edc1abc934903
+status: 2
+status_message: null

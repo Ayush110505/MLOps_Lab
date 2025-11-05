@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ayush/OneDrive/Desktop/MLOps%20Lab/mlruns/185263012116731052/f4e8bcb6a2874ce9a26fe7399738c62d/artifacts
+end_time: 1762363264373
+entry_point_name: ''
+experiment_id: '185263012116731052'
+lifecycle_stage: active
+run_id: f4e8bcb6a2874ce9a26fe7399738c62d
+run_name: gregarious-rat-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762363257624
+status: 3
+tags: []
+user_id: ayush

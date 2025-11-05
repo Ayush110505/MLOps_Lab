@@ -1,0 +1,14 @@
+Assignment 1:
+
+git init
+dvc init
+dvc add HPPD.csv
+git add HPPD.dvc .gitignore .dvc/config
+git commit -m "Add dataset under DVC tracking"
+
+## Now suppose you update or modify your dataset (e.g., added new samples).
+
+dvc add data/
+git add data.dvc
+git commit -m "Updated dataset with new samples"
+dvc push

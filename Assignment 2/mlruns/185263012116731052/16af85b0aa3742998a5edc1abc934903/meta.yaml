@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ayush/OneDrive/Desktop/MLOps%20Lab/mlruns/185263012116731052/16af85b0aa3742998a5edc1abc934903/artifacts
+end_time: 1762362241523
+entry_point_name: ''
+experiment_id: '185263012116731052'
+lifecycle_stage: active
+run_id: 16af85b0aa3742998a5edc1abc934903
+run_name: dapper-swan-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762362231022
+status: 3
+tags: []
+user_id: ayush
